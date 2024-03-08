@@ -6,6 +6,8 @@ This is a Node.js server for a fugitive capture game where players (cops) choose
 
 1. Clone this repository: `git clone (https://github.com/dilleswar16/cop-backend-game.git)`
 2. Install dependencies: `npm install`
+3. Server Live `https://cop-backend-game.onrender.com`
+4. Front end Live `https://cop-frontend-game.onrender.com`
 
 ## Usage
 
